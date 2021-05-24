@@ -1,10 +1,10 @@
 /**
  * @name Dracula Theme
- * @author Kabir Kwatra
- * @authorId 168376512272269313
- * @version 1.0.0
- * @description 🧛🏻‍♂️ Dark theme for all the things
- * @source https://github.com/Dracula/BetterDiscord
+ * @author Kabir Kwatra & Dmytro & ReflexGURU
+ * @authorId 168376512272269313 & 290350813828874241 & 342247854875738113
+ * @version 2.0.0
+ * @description 🧛🏻‍♂️ Dark theme for all the things (fixed for new discord updates)
+ * @source https://github.com/devexito/dracula-discord-theme
 **/
 
-@import url("https://dracula.github.io/betterdiscord/base.css")
+@import url("https://raw.githubusercontent.com/devexito/dracula-discord-theme/master/base.css")

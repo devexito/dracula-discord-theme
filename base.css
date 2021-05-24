@@ -36,18 +36,21 @@
 }
 
 .da-repliedMessage {
-    --background-accent: var(--dracula-selection) !important;
+  --background-accent: var(--dracula-selection) !important;
 }
 
 .container-1D34oG.da-container {
   background-color: var(--dracula-background) !important;
 }
 
-.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
-  background-color: var(--dracula-comment) !important
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9,
+.wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+  background-color: var(--dracula-comment) !important;
 }
 
-.theme-dark .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-track-piece {
+.theme-dark
+  .scrollerThemed-2oenus.themedWithTrack-q8E3vB
+  .scroller-2FKFPG::-webkit-scrollbar-track-piece {
   background-color: var(--dracula-selection) !important;
   border: 4px solid var(--dracula-background) !important;
   border-radius: 8px !important;
@@ -55,7 +58,7 @@
 
 /* Syntax Highlighing in Code Blocks*/
 code {
-  color: var(--dracula-foreground) !important
+  color: var(--dracula-foreground) !important;
 }
 span.hljs-built_in {
   color: var(--dracula-purple) !important;
@@ -86,4 +89,142 @@ span.hljs-meta-keyword {
 }
 span.hljs-meta-string {
   color: var(--dracula-orange) !important;
+}
+
+.headerPlaying-j0WQBV {
+  background: rgb(68, 71, 90) !important;
+}
+
+.theme-dark .body-3iLsc4,
+.theme-dark .footer-1fjuF6 {
+  background-color: #282a36 !important;
+  color: hsla(0, 0%, 100%, 0.8);
+}
+
+.theme-dark .headerNormal-T_seeN {
+  background-color: #414455 !important;
+}
+
+.theme-dark .option-96V44q.selected-rZcOL- {
+  background-color: var(--dracula-comment) !important;
+}
+.theme-dark .option-96V44q.selected-rZcOL- .answer-1n6g43 {
+  color: white !important;
+}
+
+.theme-dark .option-96V44q:after {
+  background: none !important;
+}
+
+.container-UC8Ug1 {
+  background-color: #424454 !important;
+}
+.theme-dark .container-3ayLPN {
+  background-color: #3d4253 !important;
+}
+.theme-dark .perksModal-fSYqOq,
+.theme-dark .paymentPane-3bwJ6A,
+.theme-dark .paginator-166-09,
+.theme-dark .payment-xT17Mq,
+.theme-dark .root-1gCeng,
+.theme-dark .uploadModal-2ifh8j,
+.theme-dark .footer-3mqk7D,
+.theme-dark .pageWrapper-1PgVDX,
+.search-1iTphC .searchBox-2_mAlO  {
+  background-color: var(--dracula-background) !important;
+}
+
+.theme-dark .codeRedemptionRedirect-1wVR4b {
+  color: #fff;
+  background-color: #424454 !important;
+  border-color: #202225;
+}
+.theme-dark .footer-2gL1pp {
+  background-color: #202225 !important;
+}
+
+.colorStandard-2KCXvj {
+  color: #a5a5a5;
+}
+.colorHeaderPrimary-26Jzh- {
+  color: white;
+}
+
+.colorHeaderSecondary-3Sp3Ft,
+.close-hZ94c6 {
+  color: #a5a5a5;
+}
+
+.theme-light .footer-2gL1pp {
+  box-shadow: none !important;
+  background-color: var(--dracula-background) !important;
+}
+
+.da-searchBar, .da-content:before, .da-header {
+  box-shadow: none !important;
+}
+
+.layout-2DM8Md.da-layout:hover {
+  background-color: #44475991 !important;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent !important;
+}
+::-webkit-scrollbar-thumb,
+.selected-aXhQR6 .layout-2DM8Md,
+.reaction-1hd86g.reactionMe-wv5HKu {
+  background-color: rgb(68, 71, 90) !important;
+}
+
+.search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng {
+  font-size: 16px;
+  padding: 8px;
+  color: white;
+}
+
+.backButton-iA7KIs {
+color: white;
+}
+
+.theme-light .root-1gCeng {
+  box-shadow: none !important;
+}
+
+.reaction-1hd86g {
+  border-color: transparent !important;
+}
+
+.input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus {
+  border-color: #c294f4 !important;
+}
+.colorLink-2vG20E {
+  color: #c294f4 !important;
+}
+
+.theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
+
+  background-color: transparent!important;
+}
+
+.modeSelected-346R90 .content-1x5b-n {
+  background-color: #444759 !important;
+}
+
+.modeSelected-346R90 .icon-1DeIlz {
+  color: white !important;
+}
+
+.reaction-1hd86g {
+  border-radius: 4px !important;
+}
+
+.theme-dark .message-2qRu38 {
+  background-color: transparent !important;
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.da-layers > .da-layer {
+  transform: scale(1) !important;
 }
