@@ -130,7 +130,8 @@ span.hljs-meta-string {
 .theme-dark .uploadModal-2ifh8j,
 .theme-dark .footer-3mqk7D,
 .theme-dark .pageWrapper-1PgVDX,
-.search-1iTphC .searchBox-2_mAlO  {
+.search-1iTphC .searchBox-2_mAlO,
+.theme-dark .container-1D34oG {
   background-color: var(--dracula-background) !important;
 }
 
@@ -196,10 +197,10 @@ color: white;
 }
 
 .input-cIJ7To.focused-1mmYsC, .input-cIJ7To:focus {
-  border-color: #c294f4 !important;
+  border-color: #bd93f9 !important;
 }
 .colorLink-2vG20E {
-  color: #c294f4 !important;
+  color: #bd93f9 !important;
 }
 
 .theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
@@ -223,4 +224,17 @@ color: white;
   background-color: transparent !important;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
+}
+
+.theme-dark .mention {
+  color: #687dc6 !important;
+  background: #7289da26 !important;
+}
+
+.theme-dark .autocomplete-1vrmpx {
+  background-color: #3d4253 !important;
+}
+
+.theme-dark .selected-1Tbx07 {
+  background-color: #6272a4 !important;
 }
