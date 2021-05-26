@@ -224,7 +224,3 @@ color: white;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
 }
-
-.da-layers > .da-layer {
-  transform: scale(1) !important;
-}
