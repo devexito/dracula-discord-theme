@@ -141,7 +141,7 @@ span.hljs-meta-string {
   border-color: #202225;
 }
 .theme-dark .footer-2gL1pp {
-  background-color: #202225 !important;
+  background-color: var(--dracula-background) !important;
 }
 
 .colorStandard-2KCXvj {
