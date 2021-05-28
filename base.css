@@ -126,7 +126,7 @@ span.hljs-meta-string {
 .theme-dark .paymentPane-3bwJ6A,
 .theme-dark .paginator-166-09,
 .theme-dark .payment-xT17Mq,
-.theme-light .root-1gCeng,
+.theme-dark .root-1gCeng,
 .theme-dark .uploadModal-2ifh8j,
 .theme-dark .footer-3mqk7D,
 .theme-dark .pageWrapper-1PgVDX,
@@ -241,4 +241,8 @@ color: white;
 
 .base-1x0h_U {
   color: white !important;
+}
+
+.modal-qgFCbT.root-1gCeng.fullscreenOnMobile-1bD22y {
+  background: transparent !important;
 }
