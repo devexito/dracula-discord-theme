@@ -226,7 +226,7 @@ color: white;
   box-shadow: none !important;
 }
 
-.theme-dark .mention {
+.theme-dark .mention:not(.roleMention-2Bj0ju) {
   color: #687dc6 !important;
   background: #7289da26 !important;
 }
