@@ -277,3 +277,32 @@ color: white;
 .categoryHeader-O1zU94 {
   background-color: #282a36 !important;
 }
+
+.theme-dark .tierBody-16Chc9,
+.theme-dark .tierBody-x9kBBp,
+.tierHeaderLocked-1a2opw,
+.theme-dark .perk-2WeBWW,
+.theme-dark .card-FDVird:before {
+  background-color: #44475a !important;
+}
+
+.theme-dark .tierHeaderLocked-1s2JJz {
+  background-color: #44475a !important;
+  color: #dcddde !important;
+}
+
+.theme-dark .tierLock-3CSxSX  {
+  color: #dcddde !important;
+}
+
+.theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse {
+  background-color: #282a36 !important;
+}
+
+.tierLock-1oFMOZ {
+  color: #b9bbbe !important;
+}
+
+.previewContainer-1KQDJS .theme-dark .messageContainer-1DiFnQ {
+  background-color: #282a36 !important;
+}
