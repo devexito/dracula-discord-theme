@@ -29,6 +29,7 @@
   --rs-streaming-color: var(--dracula-purple) !important;
   --rs-invisible-color: var(--dracula-comment) !important;
   --interactive-muted: var(--dracula-comment) !important;
+  --elevation-low: var(--elevation-high) !important;
 }
 
 .da-acronym {
