@@ -18,7 +18,7 @@
   --background-secondary-alt: var(--dracula-background) !important;
   --background-tertiary: var(--dracula-background) !important;
   --background-accent: var(--dracula-current-line) !important;
-  --background-floating: var(--dracula-background) !important;
+  --background-floating: #3d4253 !important;
   --activity-card-background: var(--dracula-background) !important;
   --interactive-normal: var(--dracula-foreground) !important;
   --channeltextarea-background: var(--dracula-selection) !important;
@@ -185,7 +185,7 @@ span.hljs-meta-string {
 }
 
 .backButton-iA7KIs {
-color: white;
+  color: white;
 }
 
 .theme-light .root-1gCeng {
@@ -204,7 +204,6 @@ color: white;
 }
 
 .theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
-
   background-color: transparent!important;
 }
 
@@ -224,11 +223,6 @@ color: white;
   background-color: transparent !important;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-}
-
-.theme-dark .mention:not(.roleMention-2Bj0ju) {
-  color: #687dc6 !important;
-  background: #7289da26 !important;
 }
 
 .theme-dark .autocomplete-1vrmpx {
@@ -314,4 +308,36 @@ color: white;
 
 .css-3vaxre-menu {
   background-color: #282a36 !important;
+}
+
+.categorySection-231RiR > .categoryHeader-O1zU94 {
+  background: #3d4253 !important;
+}
+
+.container-UC8Ug1 {
+  border: none !important;
+}
+
+.container-UC8Ug1:not(:hover) {
+  background: var(--dracula-background) !important;
+}
+
+.container-UC8Ug1 > * {
+  color: #fff !important;
+}
+
+.inputDefault-_djjkz.input-cIJ7To {
+  color: #a5a5a5 !important;
+}
+
+.button-38aScr.lookBlank-3eh9lL > * {
+  color: #a5a5a5 !important;
+}
+
+.focused-3afm-j, .lookFilled-1Gx00P {
+  background: #6272a4 !important;
+}
+
+.lookFilled-1Gx00P:hover {
+  background: #6b7bad !important;
 }
