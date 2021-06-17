@@ -158,12 +158,7 @@ span.hljs-meta-string {
 }
 
 .theme-light .footer-2gL1pp {
-  box-shadow: none !important;
   background-color: var(--dracula-background) !important;
-}
-
-.da-searchBar, .da-content:before, .da-header {
-  box-shadow: none !important;
 }
 
 .layout-2DM8Md.da-layout:hover {
@@ -223,7 +218,6 @@ span.hljs-meta-string {
 .theme-dark .message-2qRu38 {
   background-color: transparent !important;
   -webkit-box-shadow: none !important;
-  box-shadow: none !important;
 }
 
 .theme-dark .autocomplete-1vrmpx {
@@ -331,7 +325,7 @@ span.hljs-meta-string {
   color: #a5a5a5 !important;
 }
 
-.button-38aScr.lookBlank-3eh9lL > * {
+.theme-light .button-38aScr.lookBlank-3eh9lL > *:not(svg) {
   color: #a5a5a5 !important;
 }
 
@@ -345,4 +339,8 @@ span.hljs-meta-string {
 
 .popoutContainer-1MXdqN {
   box-shadow: var(--elevation-high) !important;
+}
+
+.theme-light .footer-1NnaNd {
+  box-shadow: none !important;
 }
