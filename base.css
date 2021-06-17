@@ -29,7 +29,7 @@
   --rs-streaming-color: var(--dracula-purple) !important;
   --rs-invisible-color: var(--dracula-comment) !important;
   --interactive-muted: var(--dracula-comment) !important;
-  --elevation-low: var(--elevation-high) !important;
+  --elevation-low: none !important;
 }
 
 .da-acronym {
@@ -341,4 +341,8 @@ span.hljs-meta-string {
 
 .lookFilled-1Gx00P:hover {
   background: #6b7bad !important;
+}
+
+.popoutContainer-1MXdqN {
+  box-shadow: var(--elevation-high) !important;
 }
